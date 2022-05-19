@@ -1,0 +1,26 @@
+{
+  "name": "tentime",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-mix": "^6.0.43",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0"
+  },
+  "dependencies": {
+    "uikit": "^3.13.7"
+  }
+}

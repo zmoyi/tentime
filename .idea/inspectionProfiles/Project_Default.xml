@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="uk-close" />
+            <item index="1" class="java.lang.String" itemvalue="uk-offcanvas" />
+            <item index="2" class="java.lang.String" itemvalue="uk-icon" />
+            <item index="3" class="java.lang.String" itemvalue="uk-grid" />
+            <item index="4" class="java.lang.String" itemvalue="uk-tab" />
+            <item index="5" class="java.lang.String" itemvalue="uk-margin" />
+            <item index="6" class="java.lang.String" itemvalue="uk-sticky" />
+            <item index="7" class="java.lang.String" itemvalue="uk-img" />
+            <item index="8" class="java.lang.String" itemvalue="uk-dropdown" />
+            <item index="9" class="java.lang.String" itemvalue="uk-accordion" />
+            <item index="10" class="java.lang.String" itemvalue="uk-leader" />
+            <item index="11" class="java.lang.String" itemvalue="uk-modal" />
+            <item index="12" class="java.lang.String" itemvalue="uk-toggle" />
+            <item index="13" class="java.lang.String" itemvalue="uk-height-viewport" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
